@@ -3,3 +3,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.banner {
+  color: #92400e;
+  text-align: center;
+  justify-content: center;
+}
