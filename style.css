@@ -1,2 +1,5 @@
 body {
+  background-image: url("/mirzapur.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
