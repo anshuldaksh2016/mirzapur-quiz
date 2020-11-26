@@ -5,7 +5,12 @@ body {
 }
 
 .banner {
-  color: #92400e;
+  color: white;
   text-align: center;
-  justify-content: center;
+  margin: auto;
+  padding: 150px 0;
+}
+
+.banner a {
+  color: aqua;
 }
