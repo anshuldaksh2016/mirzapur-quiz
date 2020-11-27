@@ -1,0 +1,19 @@
+{
+  "name": "mirzapur-quiz",
+  "version": "1.0.0",
+  "description": "CLI app for mirzapur lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshuldaksh2016/mirzapur-quiz.git"
+  },
+  "author": "anshul daksh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshuldaksh2016/mirzapur-quiz/issues"
+  },
+  "homepage": "https://github.com/anshuldaksh2016/mirzapur-quiz#readme"
+}
