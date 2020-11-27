@@ -14,3 +14,7 @@ body {
 .banner a {
   color: aqua;
 }
+
+.font-big {
+  font-size: 3rem;
+}
